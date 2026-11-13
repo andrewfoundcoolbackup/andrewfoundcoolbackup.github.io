@@ -6,13 +6,6 @@ html {
   background-size: cover;
 }
 body {
-  color: #000000;
-}
-
-h1 {
-  color: #FFFFFF;
-}
-
-h2 {
-  color: #FFFFFF;
+  background-color: black;
+  color: white;
 }
