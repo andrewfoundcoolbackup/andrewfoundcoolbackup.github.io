@@ -5,3 +5,14 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+body {
+  color: #000000;
+}
+
+h1 {
+  color: #FFFFFF;
+}
+
+h2 {
+  color: #FFFFFF;
+}
